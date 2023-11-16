@@ -1,2 +1,2 @@
-# note
+# notes
 programming diary
