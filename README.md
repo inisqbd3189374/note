@@ -27,3 +27,9 @@ In other words, focus on writing clean, well-structured, and well-documented cod
 4. Participate in open source projects: Contributing to open-source projects can not only improve your programming skills but also give you exposure to different coding styles and techniques. This can be a great way to grow your portfolio and network within the industry.   
 5. Seek feedback and criticism: It' is important to get feedback on your work and learn from the experiences of others. By receiving constructive criticism, you can identify areas for improvement and grow as a programmer. Don't be afraid to ask questions and seek guidance from more experienced professionals.    
 6. Practice good time management and organizational skills: Being organized and efficient with your time can make a significant difference in your productivity and success as an engineer. Use tools like task managers, calendars, or lists to plan and organize your workload.
+
+# 2023-11-21
+- Today's programming wisdom is to prioritize tasks, plan ahead, and stay organized. This will help you to be more efficient and productive in your work. First, prioritize your tasks based on their importance and deadlines. By giving priority to the tasks that need to get done first, you can ensure that you are making progress on the right things.
+
+Second, planning ahead is crucial for success. Make a plan for your day, week, or even month, depending on your project. Planning ahead will allow you time to think about potential issues and challenges, so you're better prepared to tackle them. It will also help to keep you focused and on track with your goals. 
+ -- 213个词
