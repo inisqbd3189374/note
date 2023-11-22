@@ -33,3 +33,8 @@ In other words, focus on writing clean, well-structured, and well-documented cod
 
 Second, planning ahead is crucial for success. Make a plan for your day, week, or even month, depending on your project. Planning ahead will allow you time to think about potential issues and challenges, so you're better prepared to tackle them. It will also help to keep you focused and on track with your goals. 
  -- 213个词
+
+# 2023-11-22
+- Today's programming wisdom is to be a lifelong learner and adapt to the ever-changing world of technology. This means staying up-to-date with the latest programming languages, frameworks, and tools, as well as understanding the best practices and patterns for building efficient and maintainable software.
+
+To achieve this, it is essential to practice continuous learning and stay curious. Follow industry trends and participate in online discussions, conferences, meetups, etc. to stay connected with other developers and keep your knowledge up to date. Additionally, always be open to trying new things and experimenting with different technologies. By doing so, you will become a more well-rounded developer and be better equipped to tackle the challenges of the industry.
