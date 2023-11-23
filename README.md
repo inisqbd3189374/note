@@ -38,3 +38,6 @@ Second, planning ahead is crucial for success. Make a plan for your day, week, o
 - Today's programming wisdom is to be a lifelong learner and adapt to the ever-changing world of technology. This means staying up-to-date with the latest programming languages, frameworks, and tools, as well as understanding the best practices and patterns for building efficient and maintainable software.
 
 To achieve this, it is essential to practice continuous learning and stay curious. Follow industry trends and participate in online discussions, conferences, meetups, etc. to stay connected with other developers and keep your knowledge up to date. Additionally, always be open to trying new things and experimenting with different technologies. By doing so, you will become a more well-rounded developer and be better equipped to tackle the challenges of the industry.
+
+# 2023-11-23
+- "Keep it simple, stupid!"
