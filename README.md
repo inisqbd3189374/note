@@ -49,3 +49,6 @@ To achieve this, it is essential to practice continuous learning and stay curiou
 - "Programming today is a race between software engineers striving to build bigger and better idiot-proof programs, and the universe trying to produce bigger and better idiots. So far, the universe is winning." - Rick Cook
 
 This quote highlights the ongoing challenge that programmers face in creating software that is both robust and user-friendly. As technology advances and more people gain access to it, the potential for user error increases. Therefore, it is important for programmers to continually improve their skills and develop new approaches to prevent errors and ensure that their software can withstand unexpected inputs or behaviors.
+
+# 2023-11-26
+- "Keep it simple, stupid!"
