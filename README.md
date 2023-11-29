@@ -58,3 +58,10 @@ This quote highlights the ongoing challenge that programmers face in creating so
 
 # 2023-11-28
 - "Keep it simple, stupid!"
+
+# 2023-11-29
+- Today's programming wisdom is to always keep learning and adapting to new technologies and programming languages. As the tech industry continues to evolve, it' s crucial to stay up-to-date with the latest trends and tools. This can help you become a more valuable asset to your team or organization and make you a better problem-solver.
+
+One way to achieve this is by setting aside time each week to read and research related to programming. You can find articles, blogs, and videos on various platforms, such as GitHub, Stack Overflow, or YouTube. These resources can provide valuable insights and tips on how to approach problems and improve your coding skills. 
+ 此外，建立一个强大的个人项目库也是一个好主意。通过实际项目来学习和应用新技能，可以帮助你更好地理解这些技术的实际应用。同时，这也可以作为你简历上的一大亮点，让潜在雇主看到你的实际能力和经验。
+ 最后，不要忘记与他人合作和交流。加入编程社区，如GitHub或本地编程俱乐部，可以让你结识志同道合的人，分享经验和解决问题。这不仅有助于提高你的技能水平，还可以扩大你的人际网络，为未来的职业发展创造更多机会。总之，保持学习、积累项目经验并积极参与社区交流，是成为一名优秀的程序员的智慧所在。
