@@ -95,3 +95,6 @@ It means that trying to optimize code too early in the development process can l
 
 # 2023-12-07
 - "Keep it simple, stupid!"
+
+# 2023-12-08
+- "Keep it simple, stupid!"
