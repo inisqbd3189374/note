@@ -98,3 +98,8 @@ It means that trying to optimize code too early in the development process can l
 
 # 2023-12-08
 - "Keep it simple, stupid!"
+
+# 2023-12-09
+- "Premature optimization is the root of all evil." - Donald Knuth. 
+
+This quote reminds us that optimizing code too early in the development process can lead to unnecessary complexity and potential bugs. It's often better to write clear, simple code first and optimize only when necessary.
