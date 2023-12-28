@@ -173,3 +173,10 @@ This emphasizes the importance of prioritizing clarity and simplicity in program
 1. Stay current with new developments: Read blogs, subscribe to newsletters, and attend conferences to learn about the newest technologies, tools, libraries, frameworks, etc.
 2. Practice regularly: Programming is a skill that requires constant practice to maintain and improve. Set aside time each day or week to practice coding in your preferred language or try out new ones. 
 3. Participate in open source projects: Contributing to open-source projects is not only a great way to improve your skills but also to network with other developers and learn from their experience. By working on real-world problems, you can gain valuable experience and see how different programming concepts are applied in practice.
+
+# 2023-12-28
+- Today's programming wisdom is to prioritize tasks, plan your time wisely, and stay organized. This will help you to be more efficient and productive in your coding endeavors.
+
+First, prioritize your tasks. When you're working on a project, it' s important to determine which tasks are most critical to the success of the project. By focusing on these tasks first, you can ensure that your code is of high quality and meets the requirements of your project timeline. You can use the MoSCoW method to categorize your task: Must have, Should have and Could have. Must-have tasks should be completed first as they are essential to your projects success. Should-haves are nice-to-havenon-essential tasks that can be worked on if time permits. Could-has are tasks you might want to do in the future, but aren't necessary for the current project
+ 
+Second, wisely plan you time. Use a scheduling tool like Trello, Todoist, or Google Calendar to plan out your day and allocate time for each task. Make sure to leave some buffer time in case something takes longer than expected. Avoid the temptation to multitask as it can lead to decreased efficiency and increased stress levels. Focus on one task at a time and move on to another when you have completed the first one. ..
