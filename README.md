@@ -180,3 +180,6 @@ This emphasizes the importance of prioritizing clarity and simplicity in program
 First, prioritize your tasks. When you're working on a project, it' s important to determine which tasks are most critical to the success of the project. By focusing on these tasks first, you can ensure that your code is of high quality and meets the requirements of your project timeline. You can use the MoSCoW method to categorize your task: Must have, Should have and Could have. Must-have tasks should be completed first as they are essential to your projects success. Should-haves are nice-to-havenon-essential tasks that can be worked on if time permits. Could-has are tasks you might want to do in the future, but aren't necessary for the current project
  
 Second, wisely plan you time. Use a scheduling tool like Trello, Todoist, or Google Calendar to plan out your day and allocate time for each task. Make sure to leave some buffer time in case something takes longer than expected. Avoid the temptation to multitask as it can lead to decreased efficiency and increased stress levels. Focus on one task at a time and move on to another when you have completed the first one. ..
+
+# 2023-12-29
+- "Keep it simple, stupid!"
