@@ -365,3 +365,10 @@ In more detail, this quote emphasizes that striving to make parts of your code f
 
 # 2024-02-06
 - "Keep it simple, stupid!"
+
+# 2024-02-07
+- Today's programming wisdom is to be a lifelong learner, constantly updating your skills and knowledge in the field. This means staying up-to-date with the latest technologies, tools, and best practices. It also means being open to new ideas and approaches, as well as being willing to take risks and try new things.
+
+To be successful in programming, it' s essential to have a deep understanding of the fundamentals, such as data structures, algorithms, programming languages, software engineering, etc. These fundamentals will serve as a strong foundation for your career, allowing you to adapt and thrive in any environment. Additionally, developing strong problem-solving and critical-thinking skills is crucial, because programming is all about solving problems and creating innovative solutions. 
+ 学习新技能并不断更新知识是编程智慧的体现。这意味着要跟上最新的科技、工具和最佳实践。同时，要愿意接受新思想和方法，以及愿意冒险尝试新事物。
+要在编程领域取得成功，深入了解基本原理（如数据结构、算法、编程语言、软件工程等）至关重要。这些基本知识将为你职业生涯奠定坚实基础，让你能够在任何环境中适应并茁壮成长。此外，培养强大的问题解决和批判性思维能力至关重要，因为编程就是解决问题和创造创新解决方案的过程。
