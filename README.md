@@ -496,3 +496,8 @@ In practice, this means choosing straightforward algorithms, using descriptive v
 
 # 2024-03-05
 - "Keep it simple, stupid!"
+
+# 2024-03-06
+- "Today's programming wisdom: 'Simplicity is the ultimate sophistication.' — Leonardo da Vinci. In coding, this means that writing clean, readable, and maintainable code is often more valuable than over-engineering solutions. Strive to write code that is easy to understand and modify, even if it takes a bit longer upfront. This approach reduces bugs, enhances collaboration, and future-proofs your projects against changing requirements." 
+
+Also remember, 'Premature optimization is the root of all evil' — Donald Knuth. Focus on getting your program correct first, then optimize where necessary, based on data and profiling, rather than assuming where bottlenecks might be."
